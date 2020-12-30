@@ -1,0 +1,1668 @@
+{
+    "MeslekListesi": [
+        {
+            "value": "1",
+            "label": "Akademik Danışman "
+        },
+        {
+            "value": "2",
+            "label": "Firma Temsilcisi"
+        },
+        {
+            "value": "3",
+            "label": "Hesap Yöneticisi"
+        },
+        {
+            "value": "4",
+            "label": "Hesap Uzmanı"
+        },
+        {
+            "value": "5",
+            "label": "Muhasebeci"
+        },
+        {
+            "value": "6",
+            "label": "Yönetici Asistanı"
+        },
+        {
+            "value": "7",
+            "label": "İdare Memuru"
+        },
+        {
+            "value": "8",
+            "label": "Mali Ve İdari İşler Uzmanı"
+        },
+        {
+            "value": "9",
+            "label": "Yönetici"
+        },
+        {
+            "value": "10",
+            "label": "Danışman "
+        },
+        {
+            "value": "11",
+            "label": "Analist"
+        },
+        {
+            "value": "12",
+            "label": "Asistan "
+        },
+        {
+            "value": "13",
+            "label": "Genel Müdür Yardımcısı"
+        },
+        {
+            "value": "14",
+            "label": "Müdür Yardımcısı"
+        },
+        {
+            "value": "15",
+            "label": "Öğretim Üyesi"
+        },
+        {
+            "value": "16",
+            "label": "Savcı Yardımcısı"
+        },
+        {
+            "value": "17",
+            "label": "Başkan Yardımcısı Asistanı"
+        },
+        {
+            "value": "18",
+            "label": "Uzman Yardımcısı"
+        },
+        {
+            "value": "19",
+            "label": "Yardımcı Doktor"
+        },
+        {
+            "value": "20",
+            "label": "Yardımcı Avukat "
+        },
+        {
+            "value": "21",
+            "label": "Yardımcı Araştırmacı"
+        },
+        {
+            "value": "22",
+            "label": "Yazar"
+        },
+        {
+            "value": "23",
+            "label": "İdari Departman Çalışanı"
+        },
+        {
+            "value": "24",
+            "label": "Fırıncı "
+        },
+        {
+            "value": "25",
+            "label": "Banka Çalışanı"
+        },
+        {
+            "value": "26",
+            "label": "Banka Müdürü"
+        },
+        {
+            "value": "27",
+            "label": "Banka Memuru"
+        },
+        {
+            "value": "28",
+            "label": "Bankacı"
+        },
+        {
+            "value": "29",
+            "label": "Bankacılık Yetkilisi"
+        },
+        {
+            "value": "30",
+            "label": "Bar Yöneticisi"
+        },
+        {
+            "value": "31",
+            "label": "Bar Çalışanı"
+        },
+        {
+            "value": "32",
+            "label": "Berber"
+        },
+        {
+            "value": "33",
+            "label": "Barista"
+        },
+        {
+            "value": "34",
+            "label": "Dava Vekili"
+        },
+        {
+            "value": "35",
+            "label": "Barmen"
+        },
+        {
+            "value": "36",
+            "label": "Güzellik Danışmanı"
+        },
+        {
+            "value": "37",
+            "label": "Güzellik Uzmanı"
+        },
+        {
+            "value": "38",
+            "label": "Güzellik Terapisti"
+        },
+        {
+            "value": "39",
+            "label": "Davranış Uzmanı"
+        },
+        {
+            "value": "40",
+            "label": "Davranışsal Sağlık Uzmanı"
+        },
+        {
+            "value": "41",
+            "label": "Davranışsal Terapist"
+        },
+        {
+            "value": "42",
+            "label": "Fayda Analisti"
+        },
+        {
+            "value": "43",
+            "label": "Fayda Danışmanı"
+        },
+        {
+            "value": "44",
+            "label": "Fayda Yöneticisi"
+        },
+        {
+            "value": "45",
+            "label": "Fayda Uzmanı"
+        },
+        {
+            "value": "46",
+            "label": "Meşrubat Yöneticisi"
+        },
+        {
+            "value": "47",
+            "label": "Fatura Uzmanı"
+        },
+        {
+            "value": "48",
+            "label": "Kurul Üyesi"
+        },
+        {
+            "value": "49",
+            "label": "Muhasebeci"
+        },
+        {
+            "value": "50",
+            "label": "Şube Müdürü"
+        },
+        {
+            "value": "51",
+            "label": "Marka Yöneticisi"
+        },
+        {
+            "value": "52",
+            "label": "Marka Uzmanı"
+        },
+        {
+            "value": "53",
+            "label": "Aracı "
+        },
+        {
+            "value": "54",
+            "label": "İş Analisti"
+        },
+        {
+            "value": "55",
+            "label": "Banka İşletmeciliği Uzmanı"
+        },
+        {
+            "value": "56",
+            "label": "İş Danışmanı"
+        },
+        {
+            "value": "57",
+            "label": "İş Geliştirme Müdürü"
+        },
+        {
+            "value": "58",
+            "label": "İş Geliştirme Uzmanı"
+        },
+        {
+            "value": "59",
+            "label": "İşletme Yöneticisi"
+        },
+        {
+            "value": "60",
+            "label": "İşletme Uzmanı"
+        },
+        {
+            "value": "61",
+            "label": "Departman Yöneticisi"
+        },
+        {
+            "value": "62",
+            "label": "Satın Alma Görevlisi"
+        },
+        {
+            "value": "63",
+            "label": "Çağrı Merkezi Müşteri Temsilcisi"
+        },
+        {
+            "value": "64",
+            "label": "Çağrı Merkezi Uzmanı"
+        },
+        {
+            "value": "65",
+            "label": "Çağrı Merkezi Sorumlusu"
+        },
+        {
+            "value": "66",
+            "label": "Kampanya Uzmanı"
+        },
+        {
+            "value": "67",
+            "label": "Kaptan"
+        },
+        {
+            "value": "68",
+            "label": "Bakım Uzmanı"
+        },
+        {
+            "value": "69",
+            "label": "Kariyer Uzmanı"
+        },
+        {
+            "value": "70",
+            "label": "Bakıcı"
+        },
+        {
+            "value": "71",
+            "label": "Marangoz"
+        },
+        {
+            "value": "72",
+            "label": "Vaka Yöneticisi"
+        },
+        {
+            "value": "73",
+            "label": "Vaka Uzmanı"
+        },
+        {
+            "value": "74",
+            "label": "Kasiyer"
+        },
+        {
+            "value": "75",
+            "label": "Kategori Yöneticisi"
+        },
+        {
+            "value": "76",
+            "label": "Sertifkasyon Uzmanı"
+        },
+        {
+            "value": "77",
+            "label": "Başkan"
+        },
+        {
+            "value": "78",
+            "label": "Finans Direktörü"
+        },
+        {
+            "value": "79",
+            "label": "Operasyon Direktörü"
+        },
+        {
+            "value": "80",
+            "label": "Çocuk Bakım Uzmanı"
+        },
+        {
+            "value": "81",
+            "label": "Masör"
+        },
+        {
+            "value": "82",
+            "label": "İnşaat Mühendisi"
+        },
+        {
+            "value": "83",
+            "label": "Katip"
+        },
+        {
+            "value": "84",
+            "label": "Koç"
+        },
+        {
+            "value": "85",
+            "label": "Kurucu Ortak"
+        },
+        {
+            "value": "86",
+            "label": "Komutan"
+        },
+        {
+            "value": "87",
+            "label": "Kurumsal İletişim Uzmanı"
+        },
+        {
+            "value": "88",
+            "label": "Danışman"
+        },
+        {
+            "value": "89",
+            "label": "İçerik Yazarı"
+        },
+        {
+            "value": "90",
+            "label": "Sözleşme Uzmanı"
+        },
+        {
+            "value": "91",
+            "label": "Müteahhit"
+        },
+        {
+            "value": "92",
+            "label": "Aşçı"
+        },
+        {
+            "value": "93",
+            "label": "Kordinatör"
+        },
+        {
+            "value": "94",
+            "label": "Kurumsal Bankacılık Uzman"
+        },
+        {
+            "value": "95",
+            "label": "Şirket Avukatı"
+        },
+        {
+            "value": "96",
+            "label": "Kurumsal Uzman"
+        },
+        {
+            "value": "97",
+            "label": "Kabin Görevlisi"
+        },
+        {
+            "value": "98",
+            "label": "Müşteri Hizmetleri Uzmanı"
+        },
+        {
+            "value": "99",
+            "label": "Müşteri Hizmetleri Temsilcisi"
+        },
+        {
+            "value": "100",
+            "label": "Müşteri Sorumlusu"
+        },
+        {
+            "value": "101",
+            "label": "Veri Uzmanı"
+        },
+        {
+            "value": "102",
+            "label": "Diş Cerrahı"
+        },
+        {
+            "value": "103",
+            "label": "Diş Doktoru"
+        },
+        {
+            "value": "104",
+            "label": "Başkan Vekili"
+        },
+        {
+            "value": "105",
+            "label": "Cumhuriyet Başsavcı Vekili"
+        },
+        {
+            "value": "106",
+            "label": "Tasarım Mühendisi"
+        },
+        {
+            "value": "107",
+            "label": "Tasarım Uzmanı"
+        },
+        {
+            "value": "108",
+            "label": "Tasarımcı"
+        },
+        {
+            "value": "109",
+            "label": "Geliştirici"
+        },
+        {
+            "value": "110",
+            "label": "Yönetmen"
+        },
+        {
+            "value": "111",
+            "label": "Üst Düzey Yönetici"
+        },
+        {
+            "value": "112",
+            "label": "İş Geliştirme Direktörü"
+        },
+        {
+            "value": "113",
+            "label": "Operasyon Direktörü"
+        },
+        {
+            "value": "114",
+            "label": "Disk Jockey"
+        },
+        {
+            "value": "115",
+            "label": "Dağıtıcı"
+        },
+        {
+            "value": "116",
+            "label": "Doktor"
+        },
+        {
+            "value": "117",
+            "label": "Asistan"
+        },
+        {
+            "value": "118",
+            "label": "Fizik Tedavi Doktoru"
+        },
+        {
+            "value": "119",
+            "label": "Doktora Stajyeri"
+        },
+        {
+            "value": "120",
+            "label": "Doktora Araştırmacısı"
+        },
+        {
+            "value": "121",
+            "label": "Doktora Uzmanı"
+        },
+        {
+            "value": "122",
+            "label": "Şoför"
+        },
+        {
+            "value": "123",
+            "label": "Editör"
+        },
+        {
+            "value": "124",
+            "label": "Elektrik Mühendisi"
+        },
+        {
+            "value": "125",
+            "label": "Acil Tıp Teknisyeni"
+        },
+        {
+            "value": "126",
+            "label": "Eleman"
+        },
+        {
+            "value": "127",
+            "label": "Çalışanlara Sağlanan Faydalar Uzmanı"
+        },
+        {
+            "value": "128",
+            "label": "Mühendis"
+        },
+        {
+            "value": "129",
+            "label": "Mühendislik Stajyeri"
+        },
+        {
+            "value": "130",
+            "label": "Mühendislik Müdürü"
+        },
+        {
+            "value": "131",
+            "label": "Mühendislik Uzmanı"
+        },
+        {
+            "value": "132",
+            "label": "İngilizce Öğretmeni"
+        },
+        {
+            "value": "133",
+            "label": "Yönetici"
+        },
+        {
+            "value": "134",
+            "label": "Yönetici Asistanı"
+        },
+        {
+            "value": "135",
+            "label": "Yönetici Müdür"
+        },
+        {
+            "value": "136",
+            "label": "Başkan Vekili"
+        },
+        {
+            "value": "137",
+            "label": "Şantiye Mühendisi"
+        },
+        {
+            "value": "138",
+            "label": "Şantiye Uzmanı"
+        },
+        {
+            "value": "139",
+            "label": "Finans Müdürü"
+        },
+        {
+            "value": "140",
+            "label": "Finans Uzmanı"
+        },
+        {
+            "value": "141",
+            "label": "Finansal Danışman"
+        },
+        {
+            "value": "142",
+            "label": "Finans Analisti"
+        },
+        {
+            "value": "143",
+            "label": "Finans Asistanı"
+        },
+        {
+            "value": "144",
+            "label": "Mali Kontrol"
+        },
+        {
+            "value": "145",
+            "label": "Mali Hizmetler Müdürü"
+        },
+        {
+            "value": "146",
+            "label": "Gıda Asistanı"
+        },
+        {
+            "value": "147",
+            "label": "Gıda Müdürü"
+        },
+        {
+            "value": "148",
+            "label": "Gıda Uzmanı"
+        },
+        {
+            "value": "149",
+            "label": "Ustabaşı"
+        },
+        {
+            "value": "150",
+            "label": "Kurucu "
+        },
+        {
+            "value": "151",
+            "label": "Freelancer"
+        },
+        {
+            "value": "152",
+            "label": "Freelance Geliştirici"
+        },
+        {
+            "value": "153",
+            "label": "Freelance Grafik Tasarımcı"
+        },
+        {
+            "value": "154",
+            "label": "Serbest Gazeteci"
+        },
+        {
+            "value": "155",
+            "label": "Bağımsız Yazar"
+        },
+        {
+            "value": "156",
+            "label": "Ön Büro Personeli"
+        },
+        {
+            "value": "157",
+            "label": "Genel Müdür"
+        },
+        {
+            "value": "158",
+            "label": "Pratisyen Hekim"
+        },
+        {
+            "value": "159",
+            "label": "Mezun"
+        },
+        {
+            "value": "160",
+            "label": "Asistan Öğrenci"
+        },
+        {
+            "value": "161",
+            "label": "Lisansüstü Araştırma Görevlisi"
+        },
+        {
+            "value": "162",
+            "label": "Üniversite Mezunu"
+        },
+        {
+            "value": "163",
+            "label": "Lisansüstü Öğretim Asistanı"
+        },
+        {
+            "value": "164",
+            "label": "Grafik Tasarım Uzmanı"
+        },
+        {
+            "value": "165",
+            "label": "Grafik Tasarımcı"
+        },
+        {
+            "value": "166",
+            "label": "Rehber"
+        },
+        {
+            "value": "167",
+            "label": "Saç Stilisti"
+        },
+        {
+            "value": "168",
+            "label": "Kamu Hizmetleri Uzmanı"
+        },
+        {
+            "value": "169",
+            "label": "Başkan"
+        },
+        {
+            "value": "170",
+            "label": "Bölüm Başkanı"
+        },
+        {
+            "value": "171",
+            "label": "Pazarlama Müdürü"
+        },
+        {
+            "value": "172",
+            "label": "Operasyon Müdürü"
+        },
+        {
+            "value": "173",
+            "label": "Birim Başkanı"
+        },
+        {
+            "value": "174",
+            "label": "Sağlık Uzmanı"
+        },
+        {
+            "value": "175",
+            "label": "Destek Uzmanı"
+        },
+        {
+            "value": "176",
+            "label": "Ev Hanımı"
+        },
+        {
+            "value": "177",
+            "label": "Host"
+        },
+        {
+            "value": "178",
+            "label": "Hostes"
+        },
+        {
+            "value": "179",
+            "label": "İnsan Kaynakları Asistanı"
+        },
+        {
+            "value": "180",
+            "label": "İnsan Kaynakları Danışmanı"
+        },
+        {
+            "value": "181",
+            "label": "İnsan Kaynakları Koordinatörü"
+        },
+        {
+            "value": "182",
+            "label": "İnsan Kaynakları Direktörü"
+        },
+        {
+            "value": "183",
+            "label": "İnsan Kaynakları Sorumlusu"
+        },
+        {
+            "value": "184",
+            "label": "İnsan Kaynakları Yöneticisi"
+        },
+        {
+            "value": "185",
+            "label": "İnsan Kaynakları Memuru"
+        },
+        {
+            "value": "186",
+            "label": "İnsan Kaynakları Uzmanı"
+        },
+        {
+            "value": "187",
+            "label": "Bağımsız Temsilci "
+        },
+        {
+            "value": "188",
+            "label": "Endüstriyel Tasarımcı"
+        },
+        {
+            "value": "189",
+            "label": "Endüstriyel Elektrikçi"
+        },
+        {
+            "value": "190",
+            "label": "Endüstri Mühendisi"
+        },
+        {
+            "value": "191",
+            "label": "Endüstri Müdürü"
+        },
+        {
+            "value": "192",
+            "label": "Endüstriyel Stajyer"
+        },
+        {
+            "value": "193",
+            "label": "Endüstri Uzmanı"
+        },
+        {
+            "value": "194",
+            "label": "Bilgi Teknolojileri Danışmanı"
+        },
+        {
+            "value": "195",
+            "label": "Bilgi Teknolojisi Yöneticisi"
+        },
+        {
+            "value": "196",
+            "label": "Bilgi Teknolojileri Uzmanı"
+        },
+        {
+            "value": "197",
+            "label": "Bilgi Teknolojileri Destek Uzmanı"
+        },
+        {
+            "value": "198",
+            "label": "Müfettiş"
+        },
+        {
+            "value": "199",
+            "label": "Eğitmen"
+        },
+        {
+            "value": "200",
+            "label": "Stajyer"
+        },
+        {
+            "value": "201",
+            "label": "Uluslararası Satış Uzmanı"
+        },
+        {
+            "value": "202",
+            "label": "Yatırım Bankacılığı Analisti"
+        },
+        {
+            "value": "203",
+            "label": "Yatırım Bankacılığı Uzmanı"
+        },
+        {
+            "value": "204",
+            "label": "Yatırım Uzmanı"
+        },
+        {
+            "value": "205",
+            "label": "Java Yazılım Mühendisi"
+        },
+        {
+            "value": "206",
+            "label": "Java Uzmanı"
+        },
+        {
+            "value": "207",
+            "label": "Gazeteci"
+        },
+        {
+            "value": "208",
+            "label": "Kalfa"
+        },
+        {
+            "value": "209",
+            "label": "Hakim"
+        },
+        {
+            "value": "210",
+            "label": "Adli Stajyer"
+        },
+        {
+            "value": "211",
+            "label": "Yargı Hukuku Katibi"
+        },
+        {
+            "value": "212",
+            "label": "Muhasebe Uzman Yardımcısı"
+        },
+        {
+            "value": "213",
+            "label": "Danışman Yardımcısı"
+        },
+        {
+            "value": "214",
+            "label": "Tasarımcı Yardımcısı"
+        },
+        {
+            "value": "215",
+            "label": "Yardımcı Mühendis"
+        },
+        {
+            "value": "216",
+            "label": "Proje Yöneticisi Yardımcısı "
+        },
+        {
+            "value": "217",
+            "label": "Araştırmacı Yardımcısı"
+        },
+        {
+            "value": "218",
+            "label": "Yardımcı Yazılım Mühendisi"
+        },
+        {
+            "value": "219",
+            "label": "Bekçi"
+        },
+        {
+            "value": "220",
+            "label": "Kilit Müşteri Yönetimi"
+        },
+        {
+            "value": "221",
+            "label": "Kilit Müşteri Satış Müdürü"
+        },
+        {
+            "value": "222",
+            "label": "Kilit Müşteri Satış Uzmanı"
+        },
+        {
+            "value": "223",
+            "label": "Anaokulu Öğretmeni"
+        },
+        {
+            "value": "224",
+            "label": "Bilgi Yönetimi Uzmanı"
+        },
+        {
+            "value": "225",
+            "label": "Bilgi Yöneticisi"
+        },
+        {
+            "value": "226",
+            "label": "Bilgi Uzmanı"
+        },
+        {
+            "value": "227",
+            "label": "Laboratuvar Asistanı"
+        },
+        {
+            "value": "228",
+            "label": "Laboratuvar Sorumlusu"
+        },
+        {
+            "value": "229",
+            "label": "Laboratuvar Teknisyeni"
+        },
+        {
+            "value": "230",
+            "label": "İşçi"
+        },
+        {
+            "value": "231",
+            "label": "Hukuk Memuru"
+        },
+        {
+            "value": "232",
+            "label": "Hukuk Danışmanı"
+        },
+        {
+            "value": "233",
+            "label": "Kolluk Görevlisi"
+        },
+        {
+            "value": "234",
+            "label": "Hukuki Yaptırım Uzmanı"
+        },
+        {
+            "value": "235",
+            "label": "Hukuk Bürosu Uzmanı"
+        },
+        {
+            "value": "236",
+            "label": "Hukuk Stajyeri"
+        },
+        {
+            "value": "237",
+            "label": "Hukuk Görevlisi"
+        },
+        {
+            "value": "238",
+            "label": "Hukuk Uzmanı"
+        },
+        {
+            "value": "239",
+            "label": "Avukat"
+        },
+        {
+            "value": "240",
+            "label": "Okutman"
+        },
+        {
+            "value": "241",
+            "label": "Hukuk Öğretim Üyesi"
+        },
+        {
+            "value": "242",
+            "label": "Avukat Yardımcısı"
+        },
+        {
+            "value": "243",
+            "label": "Lisanslı Hemşire"
+        },
+        {
+            "value": "244",
+            "label": "Cankurtaran"
+        },
+        {
+            "value": "245",
+            "label": "Lojistik Yöneticisi"
+        },
+        {
+            "value": "246",
+            "label": "Lojistik Uzmanı"
+        },
+        {
+            "value": "247",
+            "label": "İdare"
+        },
+        {
+            "value": "248",
+            "label": "İdare Stajyeri"
+        },
+        {
+            "value": "249",
+            "label": "İdareci"
+        },
+        {
+            "value": "250",
+            "label": "Genel Müdür"
+        },
+        {
+            "value": "251",
+            "label": "Pazarlama Direktörü"
+        },
+        {
+            "value": "252",
+            "label": "Pazarlama Stajyeri"
+        },
+        {
+            "value": "253",
+            "label": "Pazarlama Müdürü"
+        },
+        {
+            "value": "254",
+            "label": "Pazarlama Uzmanı"
+        },
+        {
+            "value": "255",
+            "label": "Tamirci"
+        },
+        {
+            "value": "256",
+            "label": "Makine Mühendisi"
+        },
+        {
+            "value": "257",
+            "label": "Medya Uzmanı"
+        },
+        {
+            "value": "258",
+            "label": "Tıp Asistanı "
+        },
+        {
+            "value": "259",
+            "label": "Hekim"
+        },
+        {
+            "value": "260",
+            "label": "Tıbbi Uzman"
+        },
+        {
+            "value": "261",
+            "label": "Tıp Uzmanı "
+        },
+        {
+            "value": "262",
+            "label": "Danışman"
+        },
+        {
+            "value": "263",
+            "label": "Satıcı"
+        },
+        {
+            "value": "264",
+            "label": "Subay"
+        },
+        {
+            "value": "265",
+            "label": "Dadı"
+        },
+        {
+            "value": "266",
+            "label": "Arabulucu"
+        },
+        {
+            "value": "267",
+            "label": "Ağ Yöneticisi"
+        },
+        {
+            "value": "268",
+            "label": "Ağ Analisti"
+        },
+        {
+            "value": "269",
+            "label": "Ağ Danışmanı"
+        },
+        {
+            "value": "270",
+            "label": "Ağ Mühendisi"
+        },
+        {
+            "value": "271",
+            "label": "Ağ Yöneticisi"
+        },
+        {
+            "value": "272",
+            "label": "Ağ Operasyon Merkezi"
+        },
+        {
+            "value": "273",
+            "label": "Ağ Operasyon Merkezi Mühendisi"
+        },
+        {
+            "value": "274",
+            "label": "Ağ Operasyonları Uzmanı"
+        },
+        {
+            "value": "275",
+            "label": "Ağ Uzmanı"
+        },
+        {
+            "value": "276",
+            "label": "Ağ Destek Uzmanı"
+        },
+        {
+            "value": "277",
+            "label": "Ağ Sistem Uzmanı"
+        },
+        {
+            "value": "278",
+            "label": "Ağ Teknisyeni"
+        },
+        {
+            "value": "279",
+            "label": "Yeni İş Geliştirme"
+        },
+        {
+            "value": "280",
+            "label": "Haber Editörü"
+        },
+        {
+            "value": "281",
+            "label": "Muhabir"
+        },
+        {
+            "value": "282",
+            "label": "Haber Uzmanı"
+        },
+        {
+            "value": "283",
+            "label": "Hemşire"
+        },
+        {
+            "value": "284",
+            "label": "Pratisyen Hemşire"
+        },
+        {
+            "value": "285",
+            "label": "Hemşire Asistanı "
+        },
+        {
+            "value": "286",
+            "label": "Hemşirelik Müdürü"
+        },
+        {
+            "value": "287",
+            "label": "Hemşirelik Uzmanı"
+        },
+        {
+            "value": "288",
+            "label": "Beslenme Uzmanı"
+        },
+        {
+            "value": "289",
+            "label": "Ofis Asistanı"
+        },
+        {
+            "value": "290",
+            "label": "Ofis Sorumlusu"
+        },
+        {
+            "value": "291",
+            "label": "Ofis Yöneticisi"
+        },
+        {
+            "value": "292",
+            "label": "Memur"
+        },
+        {
+            "value": "293",
+            "label": "Operasyonel Uzman"
+        },
+        {
+            "value": "294",
+            "label": "Operasyon Sorumlusu"
+        },
+        {
+            "value": "295",
+            "label": "Operasyon Şefi"
+        },
+        {
+            "value": "296",
+            "label": "Operatör"
+        },
+        {
+            "value": "297",
+            "label": "Optometrist"
+        },
+        {
+            "value": "298",
+            "label": "Diğer"
+        },
+        {
+            "value": "299",
+            "label": "Kurucu"
+        },
+        {
+            "value": "300",
+            "label": "Stajyer Avukat"
+        },
+        {
+            "value": "301",
+            "label": "Ortak"
+        },
+        {
+            "value": "302",
+            "label": "Parça Uzmanı"
+        },
+        {
+            "value": "303",
+            "label": "Kişisel Antrenör"
+        },
+        {
+            "value": "304",
+            "label": "Hayvan Bakıcısı"
+        },
+        {
+            "value": "305",
+            "label": "İlaç Teknisyeni"
+        },
+        {
+            "value": "306",
+            "label": "Fotoğrafçı"
+        },
+        {
+            "value": "307",
+            "label": "Planlama Uzmanı"
+        },
+        {
+            "value": "308",
+            "label": "Polis Memuru"
+        },
+        {
+            "value": "309",
+            "label": "Doktora Sonrası Araştırmacı"
+        },
+        {
+            "value": "310",
+            "label": "Devlet Başkanı"
+        },
+        {
+            "value": "311",
+            "label": "Müdür"
+        },
+        {
+            "value": "312",
+            "label": "İşleme Mühendisi"
+        },
+        {
+            "value": "313",
+            "label": "Ürün Sorumlusu"
+        },
+        {
+            "value": "314",
+            "label": "Üretim Planlama Uzmanı"
+        },
+        {
+            "value": "315",
+            "label": "Profesyonel Şarkıcı"
+        },
+        {
+            "value": "316",
+            "label": "Profesör"
+        },
+        {
+            "value": "317",
+            "label": "Hukuk Profesörü"
+        },
+        {
+            "value": "318",
+            "label": "Program Yöneticisi"
+        },
+        {
+            "value": "319",
+            "label": "Program Uzmanı"
+        },
+        {
+            "value": "320",
+            "label": "Proje Mühendisi"
+        },
+        {
+            "value": "321",
+            "label": "Proje Lideri"
+        },
+        {
+            "value": "322",
+            "label": "Proje Müdürü"
+        },
+        {
+            "value": "323",
+            "label": "Proje Uzmanı"
+        },
+        {
+            "value": "324",
+            "label": "Savcı"
+        },
+        {
+            "value": "325",
+            "label": "Maliyeci"
+        },
+        {
+            "value": "326",
+            "label": "Kamu Savcısı"
+        },
+        {
+            "value": "327",
+            "label": "Kalite Güvence Uzmanı"
+        },
+        {
+            "value": "328",
+            "label": "Emlakçı"
+        },
+        {
+            "value": "329",
+            "label": "Resepsiyonist"
+        },
+        {
+            "value": "330",
+            "label": "İşveren"
+        },
+        {
+            "value": "331",
+            "label": "İşe Alım Uzman"
+        },
+        {
+            "value": "332",
+            "label": "Bölge Müdürü"
+        },
+        {
+            "value": "333",
+            "label": "Bölge Satış Müdürü"
+        },
+        {
+            "value": "334",
+            "label": "İlişki Yöneticisi"
+        },
+        {
+            "value": "335",
+            "label": "Temsilci"
+        },
+        {
+            "value": "336",
+            "label": "Araştırma Ve Geliştirme Uzmanı"
+        },
+        {
+            "value": "337",
+            "label": "Araştırma Asistanı"
+        },
+        {
+            "value": "338",
+            "label": "Araştırmacı"
+        },
+        {
+            "value": "339",
+            "label": "Perakende Uzmanı"
+        },
+        {
+            "value": "340",
+            "label": "Emekli"
+        },
+        {
+            "value": "341",
+            "label": "Satış Ve Pazarlama Uzmanı"
+        },
+        {
+            "value": "342",
+            "label": "Tezgahtar"
+        },
+        {
+            "value": "343",
+            "label": "Satış Danışmanı"
+        },
+        {
+            "value": "344",
+            "label": "Satış Müdürü"
+        },
+        {
+            "value": "345",
+            "label": "Satış Mühendisi"
+        },
+        {
+            "value": "346",
+            "label": "Satış Yöneticisi"
+        },
+        {
+            "value": "347",
+            "label": "Satış Temsilcisi"
+        },
+        {
+            "value": "348",
+            "label": "Satış Uzmanı"
+        },
+        {
+            "value": "349",
+            "label": "Satış Elemanı"
+        },
+        {
+            "value": "350",
+            "label": "Sağlık Uzmanı"
+        },
+        {
+            "value": "351",
+            "label": "Sekreter"
+        },
+        {
+            "value": "352",
+            "label": "Koruma"
+        },
+        {
+            "value": "353",
+            "label": "Güvenlik Görevlisi"
+        },
+        {
+            "value": "354",
+            "label": "Kıdemli Mühendis"
+        },
+        {
+            "value": "355",
+            "label": "Kıdemli Java Yazılım Mühendisi"
+        },
+        {
+            "value": "356",
+            "label": "Kıdemli Avukat"
+        },
+        {
+            "value": "357",
+            "label": "Kıdemli Yönetici"
+        },
+        {
+            "value": "358",
+            "label": "Kıdemli Ağ Mühendisi"
+        },
+        {
+            "value": "359",
+            "label": "Kıdemli Ağ Uzmanı"
+        },
+        {
+            "value": "360",
+            "label": "Kıdemli Proje Yöneticisi"
+        },
+        {
+            "value": "361",
+            "label": "Kıdemli Yazılım Mühendisi"
+        },
+        {
+            "value": "362",
+            "label": "Kıdemli Sistem Mühendisi"
+        },
+        {
+            "value": "363",
+            "label": "Kıdemli Sigortacı"
+        },
+        {
+            "value": "364",
+            "label": "Kıdemli Başkan Yardımcısı"
+        },
+        {
+            "value": "365",
+            "label": "Servis Merkezi Uzmanı"
+        },
+        {
+            "value": "366",
+            "label": "Servis Mühendisi"
+        },
+        {
+            "value": "367",
+            "label": "Saha Mühendisi"
+        },
+        {
+            "value": "368",
+            "label": "Sosyal Medya Yöneticisi"
+        },
+        {
+            "value": "369",
+            "label": "Sosyal Görevli"
+        },
+        {
+            "value": "370",
+            "label": "Yazılım Mühendisi"
+        },
+        {
+            "value": "371",
+            "label": "Asker"
+        },
+        {
+            "value": "372",
+            "label": "Uzman "
+        },
+        {
+            "value": "373",
+            "label": "Mağaza Müdürü"
+        },
+        {
+            "value": "374",
+            "label": "Öğrenci"
+        },
+        {
+            "value": "375",
+            "label": "Gözetmen"
+        },
+        {
+            "value": "376",
+            "label": "Destek Uzmanı"
+        },
+        {
+            "value": "377",
+            "label": "Sistem Mühendisi"
+        },
+        {
+            "value": "378",
+            "label": "Öğretmen"
+        },
+        {
+            "value": "379",
+            "label": "Öğretmen Yardımcısı"
+        },
+        {
+            "value": "380",
+            "label": "Öğretim Asistanı"
+        },
+        {
+            "value": "381",
+            "label": "Takım Lideri"
+        },
+        {
+            "value": "382",
+            "label": "Takım Uzmanı"
+        },
+        {
+            "value": "383",
+            "label": "Teknik Danışman"
+        },
+        {
+            "value": "384",
+            "label": "Teknik Lider"
+        },
+        {
+            "value": "385",
+            "label": "Teknik Uzman"
+        },
+        {
+            "value": "386",
+            "label": "Teknik Destek Uzmanı"
+        },
+        {
+            "value": "387",
+            "label": "Teknik Yazar"
+        },
+        {
+            "value": "388",
+            "label": "Teknisyen"
+        },
+        {
+            "value": "389",
+            "label": "Teknoloji Uzmanı"
+        },
+        {
+            "value": "390",
+            "label": "Tur Rehberi"
+        },
+        {
+            "value": "391",
+            "label": "Eğitim Uzmanı"
+        },
+        {
+            "value": "392",
+            "label": "Özel Öğretmen"
+        },
+        {
+            "value": "393",
+            "label": "Lisans Araştırma Görevlisi"
+        },
+        {
+            "value": "394",
+            "label": "Araştırma Görevlisi"
+        },
+        {
+            "value": "395",
+            "label": "Lisans Öğrencisi"
+        },
+        {
+            "value": "396",
+            "label": "Lisans Öğretim Asistanı"
+        },
+        {
+            "value": "397",
+            "label": "Sigortacı"
+        },
+        {
+            "value": "398",
+            "label": "Sigorta Müdürü"
+        },
+        {
+            "value": "399",
+            "label": "İşsiz"
+        },
+        {
+            "value": "400",
+            "label": "Birim Yöneticisi"
+        },
+        {
+            "value": "401",
+            "label": "Üniversite Öğretmeni"
+        },
+        {
+            "value": "402",
+            "label": "Kullanıcı Deneyimi Tasarımcısı"
+        },
+        {
+            "value": "403",
+            "label": "Kullanıcı Arayüzü Tasarımcısı"
+        },
+        {
+            "value": "404",
+            "label": "Veteriner Hekim"
+        },
+        {
+            "value": "405",
+            "label": "Video Düzenleyicisi"
+        },
+        {
+            "value": "406",
+            "label": "Video Grafikeri"
+        },
+        {
+            "value": "407",
+            "label": "Görsel Sunum Uzmanı"
+        },
+        {
+            "value": "408",
+            "label": "Gönüllü"
+        },
+        {
+            "value": "409",
+            "label": "Depo Yöneticisi"
+        },
+        {
+            "value": "410",
+            "label": "Web Tasarımcısı"
+        },
+        {
+            "value": "411",
+            "label": "Web Geliştiricisi"
+        },
+        {
+            "value": "412",
+            "label": "Web Uzmanı"
+        },
+        {
+            "value": "413",
+            "label": "İşçi"
+        },
+        {
+            "value": "414",
+            "label": "Yoga Eğitmeni"
+        },
+        {
+            "value": "415",
+            "label": "Zoolog"
+        },
+        {
+            "value": "416",
+            "label": "Zumba Eğitmeni"
+        }
+    ]
+}

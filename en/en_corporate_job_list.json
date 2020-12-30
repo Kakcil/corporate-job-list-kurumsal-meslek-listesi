@@ -1,0 +1,1668 @@
+﻿{
+    "JobList": [
+        {
+            "value": "1",
+            "label": "Academic Counselor"
+        },
+        {
+            "value": "2",
+            "label": "Account Executive"
+        },
+        {
+            "value": "3",
+            "label": "Account Manager"
+        },
+        {
+            "value": "4",
+            "label": "Account Specialist"
+        },
+        {
+            "value": "5",
+            "label": "Accountant"
+        },
+        {
+            "value": "6",
+            "label": "Administrative Assistant"
+        },
+        {
+            "value": "7",
+            "label": "Administrative Officer"
+        },
+        {
+            "value": "8",
+            "label": "Administrative Specialist"
+        },
+        {
+            "value": "9",
+            "label": "Administrator"
+        },
+        {
+            "value": "10",
+            "label": "Advisor"
+        },
+        {
+            "value": "11",
+            "label": "Analyst"
+        },
+        {
+            "value": "12",
+            "label": "Assistant"
+        },
+        {
+            "value": "13",
+            "label": "Assistant General Manager"
+        },
+        {
+            "value": "14",
+            "label": "Assistant Manager"
+        },
+        {
+            "value": "15",
+            "label": "Assistant Professor"
+        },
+        {
+            "value": "16",
+            "label": "Assistant Prosecutor"
+        },
+        {
+            "value": "17",
+            "label": "Assistant to Vice President"
+        },
+        {
+            "value": "18",
+            "label": "Assistant Vice President"
+        },
+        {
+            "value": "19",
+            "label": "Associate Doctor"
+        },
+        {
+            "value": "20",
+            "label": "Associate Lawyer"
+        },
+        {
+            "value": "21",
+            "label": "Associate Researcher"
+        },
+        {
+            "value": "22",
+            "label": "Author"
+        },
+        {
+            "value": "23",
+            "label": "Back Office Employee"
+        },
+        {
+            "value": "24",
+            "label": "Baker"
+        },
+        {
+            "value": "25",
+            "label": "Bank Employee"
+        },
+        {
+            "value": "26",
+            "label": "Bank Manager"
+        },
+        {
+            "value": "27",
+            "label": "Bank Teller"
+        },
+        {
+            "value": "28",
+            "label": "Banker"
+        },
+        {
+            "value": "29",
+            "label": "Banking Officer"
+        },
+        {
+            "value": "30",
+            "label": "Bar Manager"
+        },
+        {
+            "value": "31",
+            "label": "Bar Staff"
+        },
+        {
+            "value": "32",
+            "label": "Barber"
+        },
+        {
+            "value": "33",
+            "label": "Barista"
+        },
+        {
+            "value": "34",
+            "label": "Barrister At Law"
+        },
+        {
+            "value": "35",
+            "label": "Bartender"
+        },
+        {
+            "value": "36",
+            "label": "Beauty Advisor"
+        },
+        {
+            "value": "37",
+            "label": "Beauty Consultant"
+        },
+        {
+            "value": "38",
+            "label": "Beauty Therapist"
+        },
+        {
+            "value": "39",
+            "label": "Behavior Specialist"
+        },
+        {
+            "value": "40",
+            "label": "Behavioral Health Specialist"
+        },
+        {
+            "value": "41",
+            "label": "Behavioral Therapist"
+        },
+        {
+            "value": "42",
+            "label": "Benefits Analyst"
+        },
+        {
+            "value": "43",
+            "label": "Benefits Consultant"
+        },
+        {
+            "value": "44",
+            "label": "Benefits Manager"
+        },
+        {
+            "value": "45",
+            "label": "Benefits Specialist"
+        },
+        {
+            "value": "46",
+            "label": "Beverage Manager"
+        },
+        {
+            "value": "47",
+            "label": "Billing Specialist"
+        },
+        {
+            "value": "48",
+            "label": "Board Member"
+        },
+        {
+            "value": "49",
+            "label": "Bookkeeper"
+        },
+        {
+            "value": "50",
+            "label": "Branch Manager"
+        },
+        {
+            "value": "51",
+            "label": "Brand Manager"
+        },
+        {
+            "value": "52",
+            "label": "Brand Specialist"
+        },
+        {
+            "value": "53",
+            "label": "Broker"
+        },
+        {
+            "value": "54",
+            "label": "Business Analyst"
+        },
+        {
+            "value": "55",
+            "label": "Business Banking Specialist"
+        },
+        {
+            "value": "56",
+            "label": "Business Consultant"
+        },
+        {
+            "value": "57",
+            "label": "Business Development Manager"
+        },
+        {
+            "value": "58",
+            "label": "Business Development Specialist"
+        },
+        {
+            "value": "59",
+            "label": "Business Manager"
+        },
+        {
+            "value": "60",
+            "label": "Business Specialist"
+        },
+        {
+            "value": "61",
+            "label": "Business Unit Manager"
+        },
+        {
+            "value": "62",
+            "label": "Buyer"
+        },
+        {
+            "value": "63",
+            "label": "Call Center Representative"
+        },
+        {
+            "value": "64",
+            "label": "Call Center Specialist"
+        },
+        {
+            "value": "65",
+            "label": "Call Center Supervisor"
+        },
+        {
+            "value": "66",
+            "label": "Campaign Specialist"
+        },
+        {
+            "value": "67",
+            "label": "Captain"
+        },
+        {
+            "value": "68",
+            "label": "Care Specialist"
+        },
+        {
+            "value": "69",
+            "label": "Career Specialist"
+        },
+        {
+            "value": "70",
+            "label": "Caregiver"
+        },
+        {
+            "value": "71",
+            "label": "Carpenter"
+        },
+        {
+            "value": "72",
+            "label": "Case Manager"
+        },
+        {
+            "value": "73",
+            "label": "Case Specialist"
+        },
+        {
+            "value": "74",
+            "label": "Cashier"
+        },
+        {
+            "value": "75",
+            "label": "Category Manager"
+        },
+        {
+            "value": "76",
+            "label": "Certification Specialist"
+        },
+        {
+            "value": "77",
+            "label": "Chairperson"
+        },
+        {
+            "value": "78",
+            "label": "Chief Financial Officer"
+        },
+        {
+            "value": "79",
+            "label": "Chief Operating Officer"
+        },
+        {
+            "value": "80",
+            "label": "Child Care Specialist"
+        },
+        {
+            "value": "81",
+            "label": "Chiropractor"
+        },
+        {
+            "value": "82",
+            "label": "Civil Engineer"
+        },
+        {
+            "value": "83",
+            "label": "Clerk"
+        },
+        {
+            "value": "84",
+            "label": "Coach"
+        },
+        {
+            "value": "85",
+            "label": "Co-Founder"
+        },
+        {
+            "value": "86",
+            "label": "Commander"
+        },
+        {
+            "value": "87",
+            "label": "Communications Specialist"
+        },
+        {
+            "value": "88",
+            "label": "Consultant"
+        },
+        {
+            "value": "89",
+            "label": "Content Writer"
+        },
+        {
+            "value": "90",
+            "label": "Contract Specialist"
+        },
+        {
+            "value": "91",
+            "label": "Contractor"
+        },
+        {
+            "value": "92",
+            "label": "Cook"
+        },
+        {
+            "value": "93",
+            "label": "Coordinator"
+        },
+        {
+            "value": "94",
+            "label": "Corporate Banking Specialist"
+        },
+        {
+            "value": "95",
+            "label": "Corporate Lawyer"
+        },
+        {
+            "value": "96",
+            "label": "Corporate Specialist"
+        },
+        {
+            "value": "97",
+            "label": "Crew Member"
+        },
+        {
+            "value": "98",
+            "label": "Customer Care Professional"
+        },
+        {
+            "value": "99",
+            "label": "Customer Service Representative"
+        },
+        {
+            "value": "100",
+            "label": "Customer Service Specialist"
+        },
+        {
+            "value": "101",
+            "label": "Data Specialist"
+        },
+        {
+            "value": "102",
+            "label": "Dental Surgeon"
+        },
+        {
+            "value": "103",
+            "label": "Dentist"
+        },
+        {
+            "value": "104",
+            "label": "Deputy Chairman"
+        },
+        {
+            "value": "105",
+            "label": "Deputy Prosecutor"
+        },
+        {
+            "value": "106",
+            "label": "Design Engineer"
+        },
+        {
+            "value": "107",
+            "label": "Design Specialist"
+        },
+        {
+            "value": "108",
+            "label": "Designer"
+        },
+        {
+            "value": "109",
+            "label": "Developer"
+        },
+        {
+            "value": "110",
+            "label": "Director"
+        },
+        {
+            "value": "111",
+            "label": "Director General"
+        },
+        {
+            "value": "112",
+            "label": "Director Of Business Development"
+        },
+        {
+            "value": "113",
+            "label": "Director Of Operations"
+        },
+        {
+            "value": "114",
+            "label": "Disk Jockey"
+        },
+        {
+            "value": "115",
+            "label": "Distributor"
+        },
+        {
+            "value": "116",
+            "label": "Doctor"
+        },
+        {
+            "value": "117",
+            "label": "Doctor Assistant"
+        },
+        {
+            "value": "118",
+            "label": "Doctor Of Physical Therapy"
+        },
+        {
+            "value": "119",
+            "label": "Doctoral Intern"
+        },
+        {
+            "value": "120",
+            "label": "Doctoral Researcher"
+        },
+        {
+            "value": "121",
+            "label": "Doctoral Student"
+        },
+        {
+            "value": "122",
+            "label": "Driver"
+        },
+        {
+            "value": "123",
+            "label": "Editor"
+        },
+        {
+            "value": "124",
+            "label": "Electrical Engineer"
+        },
+        {
+            "value": "125",
+            "label": "Emergency Medical Technician"
+        },
+        {
+            "value": "126",
+            "label": "Employee"
+        },
+        {
+            "value": "127",
+            "label": "Employee Benefits Specialist"
+        },
+        {
+            "value": "128",
+            "label": "Engineer"
+        },
+        {
+            "value": "129",
+            "label": "Engineer Intern"
+        },
+        {
+            "value": "130",
+            "label": "Engineering Manager"
+        },
+        {
+            "value": "131",
+            "label": "Engineering Specialist"
+        },
+        {
+            "value": "132",
+            "label": "English Teacher"
+        },
+        {
+            "value": "133",
+            "label": "Executive"
+        },
+        {
+            "value": "134",
+            "label": "Executive Assistant"
+        },
+        {
+            "value": "135",
+            "label": "Executive Director"
+        },
+        {
+            "value": "136",
+            "label": "Executive Vice President"
+        },
+        {
+            "value": "137",
+            "label": "Field Engineer"
+        },
+        {
+            "value": "138",
+            "label": "Field Specialist"
+        },
+        {
+            "value": "139",
+            "label": "Finance Manager"
+        },
+        {
+            "value": "140",
+            "label": "Finance Specialist"
+        },
+        {
+            "value": "141",
+            "label": "Financial Advisor"
+        },
+        {
+            "value": "142",
+            "label": "Financial Analyst"
+        },
+        {
+            "value": "143",
+            "label": "Financial Assistant"
+        },
+        {
+            "value": "144",
+            "label": "Financial Controller"
+        },
+        {
+            "value": "145",
+            "label": "Financial Director"
+        },
+        {
+            "value": "146",
+            "label": "Food And Beverage Assistant"
+        },
+        {
+            "value": "147",
+            "label": "Food and Beverage Manager"
+        },
+        {
+            "value": "148",
+            "label": "Food and Beverage Specialist"
+        },
+        {
+            "value": "149",
+            "label": "Foreman"
+        },
+        {
+            "value": "150",
+            "label": "Founder"
+        },
+        {
+            "value": "151",
+            "label": "Freelancer"
+        },
+        {
+            "value": "152",
+            "label": "Freelance Developer"
+        },
+        {
+            "value": "153",
+            "label": "Freelance Graphic Designer"
+        },
+        {
+            "value": "154",
+            "label": "Freelance Journalist"
+        },
+        {
+            "value": "155",
+            "label": "Freelance Writer"
+        },
+        {
+            "value": "156",
+            "label": "Front Desk Clerk"
+        },
+        {
+            "value": "157",
+            "label": "General Manager"
+        },
+        {
+            "value": "158",
+            "label": "General Practitioner"
+        },
+        {
+            "value": "159",
+            "label": "Graduate"
+        },
+        {
+            "value": "160",
+            "label": "Graduate Assistant"
+        },
+        {
+            "value": "161",
+            "label": "Graduate Research Assistant"
+        },
+        {
+            "value": "162",
+            "label": "Graduate Student"
+        },
+        {
+            "value": "163",
+            "label": "Graduate Teaching Assistant"
+        },
+        {
+            "value": "164",
+            "label": "Graphic Design Specialist"
+        },
+        {
+            "value": "165",
+            "label": "Graphic Designer"
+        },
+        {
+            "value": "166",
+            "label": "Guide"
+        },
+        {
+            "value": "167",
+            "label": "Hairstylist"
+        },
+        {
+            "value": "168",
+            "label": "Halkla İlişkiler Uzmanı"
+        },
+        {
+            "value": "169",
+            "label": "Head"
+        },
+        {
+            "value": "170",
+            "label": "Head Of Department"
+        },
+        {
+            "value": "171",
+            "label": "Head Of Marketing"
+        },
+        {
+            "value": "172",
+            "label": "Head Of Operations"
+        },
+        {
+            "value": "173",
+            "label": "Head Of Unit"
+        },
+        {
+            "value": "174",
+            "label": "Healthcare Specialist"
+        },
+        {
+            "value": "175",
+            "label": "Help Desk Specialist"
+        },
+        {
+            "value": "176",
+            "label": "Homemaker"
+        },
+        {
+            "value": "177",
+            "label": "Host"
+        },
+        {
+            "value": "178",
+            "label": "Hostess"
+        },
+        {
+            "value": "179",
+            "label": "Human Resources Assistant"
+        },
+        {
+            "value": "180",
+            "label": "Human Resources Consultant"
+        },
+        {
+            "value": "181",
+            "label": "Human Resources Coordinator"
+        },
+        {
+            "value": "182",
+            "label": "Human Resources Director"
+        },
+        {
+            "value": "183",
+            "label": "Human Resources Executive"
+        },
+        {
+            "value": "184",
+            "label": "Human Resources Manager"
+        },
+        {
+            "value": "185",
+            "label": "Human Resources Officer"
+        },
+        {
+            "value": "186",
+            "label": "Human Resources Specialist"
+        },
+        {
+            "value": "187",
+            "label": "Independent Agent"
+        },
+        {
+            "value": "188",
+            "label": "Industrial Designer"
+        },
+        {
+            "value": "189",
+            "label": "Industrial Electrician"
+        },
+        {
+            "value": "190",
+            "label": "Industrial Engineer"
+        },
+        {
+            "value": "191",
+            "label": "Industrial Manager"
+        },
+        {
+            "value": "192",
+            "label": "Industrial Trainee"
+        },
+        {
+            "value": "193",
+            "label": "Industry Specialist"
+        },
+        {
+            "value": "194",
+            "label": "Information Technology Consultant"
+        },
+        {
+            "value": "195",
+            "label": "Information Technology Manager"
+        },
+        {
+            "value": "196",
+            "label": "Information Technology Specialist"
+        },
+        {
+            "value": "197",
+            "label": "Information Technology Support Specialist"
+        },
+        {
+            "value": "198",
+            "label": "Inspector"
+        },
+        {
+            "value": "199",
+            "label": "Instructor"
+        },
+        {
+            "value": "200",
+            "label": "Intern"
+        },
+        {
+            "value": "201",
+            "label": "International Specialist"
+        },
+        {
+            "value": "202",
+            "label": "Investment Banking Analyst"
+        },
+        {
+            "value": "203",
+            "label": "Investment Banking Specialist"
+        },
+        {
+            "value": "204",
+            "label": "Investment Specialist"
+        },
+        {
+            "value": "205",
+            "label": "Java Software Engineer"
+        },
+        {
+            "value": "206",
+            "label": "Java Specialist"
+        },
+        {
+            "value": "207",
+            "label": "Journalist"
+        },
+        {
+            "value": "208",
+            "label": "Journeyman"
+        },
+        {
+            "value": "209",
+            "label": "Judge"
+        },
+        {
+            "value": "210",
+            "label": "Judicial Intern"
+        },
+        {
+            "value": "211",
+            "label": "Judicial Law Clerk"
+        },
+        {
+            "value": "212",
+            "label": "Junior Accountant"
+        },
+        {
+            "value": "213",
+            "label": "Junior Consultant"
+        },
+        {
+            "value": "214",
+            "label": "Junior Designer"
+        },
+        {
+            "value": "215",
+            "label": "Junior Engineer"
+        },
+        {
+            "value": "216",
+            "label": "Junior Project Manager"
+        },
+        {
+            "value": "217",
+            "label": "Junior Researcher"
+        },
+        {
+            "value": "218",
+            "label": "Junior Software Engineer"
+        },
+        {
+            "value": "219",
+            "label": "Keeper"
+        },
+        {
+            "value": "220",
+            "label": "Key Account Manager"
+        },
+        {
+            "value": "221",
+            "label": "Key Account Sales Manager"
+        },
+        {
+            "value": "222",
+            "label": "Key Account Sales Specialist"
+        },
+        {
+            "value": "223",
+            "label": "Kindergarten Teacher"
+        },
+        {
+            "value": "224",
+            "label": "Knowledge Management Specialist"
+        },
+        {
+            "value": "225",
+            "label": "Knowledge Manager"
+        },
+        {
+            "value": "226",
+            "label": "Knowledge Specialist"
+        },
+        {
+            "value": "227",
+            "label": "Laboratory Assistant"
+        },
+        {
+            "value": "228",
+            "label": "Laboratory Specialist"
+        },
+        {
+            "value": "229",
+            "label": "Laboratory Technician"
+        },
+        {
+            "value": "230",
+            "label": "Laborer"
+        },
+        {
+            "value": "231",
+            "label": "Law Clerk"
+        },
+        {
+            "value": "232",
+            "label": "Law Consultant"
+        },
+        {
+            "value": "233",
+            "label": "Law Enforcement Officer"
+        },
+        {
+            "value": "234",
+            "label": "Law Enforcement Specialist"
+        },
+        {
+            "value": "235",
+            "label": "Law Firm Specialist"
+        },
+        {
+            "value": "236",
+            "label": "Law Intern"
+        },
+        {
+            "value": "237",
+            "label": "Law Officer"
+        },
+        {
+            "value": "238",
+            "label": "Law Specialist"
+        },
+        {
+            "value": "239",
+            "label": "Lawyer"
+        },
+        {
+            "value": "240",
+            "label": "Lecturer"
+        },
+        {
+            "value": "241",
+            "label": "Lecturer Of Law"
+        },
+        {
+            "value": "242",
+            "label": "Legal Assistant"
+        },
+        {
+            "value": "243",
+            "label": "Licensed Practical Nurse"
+        },
+        {
+            "value": "244",
+            "label": "Lifeguard"
+        },
+        {
+            "value": "245",
+            "label": "Logistics Manager"
+        },
+        {
+            "value": "246",
+            "label": "Logistics Specialist"
+        },
+        {
+            "value": "247",
+            "label": "Management"
+        },
+        {
+            "value": "248",
+            "label": "Management Intern"
+        },
+        {
+            "value": "249",
+            "label": "Manager"
+        },
+        {
+            "value": "250",
+            "label": "Managing Director"
+        },
+        {
+            "value": "251",
+            "label": "Marketing Director"
+        },
+        {
+            "value": "252",
+            "label": "Marketing Intern"
+        },
+        {
+            "value": "253",
+            "label": "Marketing Manager"
+        },
+        {
+            "value": "254",
+            "label": "Marketing Specialist"
+        },
+        {
+            "value": "255",
+            "label": "Mechanic"
+        },
+        {
+            "value": "256",
+            "label": "Mechanical Engineer"
+        },
+        {
+            "value": "257",
+            "label": "Media Specialist"
+        },
+        {
+            "value": "258",
+            "label": "Medical Assistant"
+        },
+        {
+            "value": "259",
+            "label": "Medical Doctor"
+        },
+        {
+            "value": "260",
+            "label": "Medical Specialist"
+        },
+        {
+            "value": "261",
+            "label": "Medicine Specialist"
+        },
+        {
+            "value": "262",
+            "label": "Mentor"
+        },
+        {
+            "value": "263",
+            "label": "Merchandiser"
+        },
+        {
+            "value": "264",
+            "label": "Military Officer"
+        },
+        {
+            "value": "265",
+            "label": "Nanny"
+        },
+        {
+            "value": "266",
+            "label": "Negotiator"
+        },
+        {
+            "value": "267",
+            "label": "Network Administrator"
+        },
+        {
+            "value": "268",
+            "label": "Network Analyst"
+        },
+        {
+            "value": "269",
+            "label": "Network Consultant"
+        },
+        {
+            "value": "270",
+            "label": "Network Engineer"
+        },
+        {
+            "value": "271",
+            "label": "Network Manager"
+        },
+        {
+            "value": "272",
+            "label": "Network Operations Center"
+        },
+        {
+            "value": "273",
+            "label": "Network Operations Center Engineer"
+        },
+        {
+            "value": "274",
+            "label": "Network Operations Specialist"
+        },
+        {
+            "value": "275",
+            "label": "Network Specialist"
+        },
+        {
+            "value": "276",
+            "label": "Network Support Specialist"
+        },
+        {
+            "value": "277",
+            "label": "Network System Specialist"
+        },
+        {
+            "value": "278",
+            "label": "Network Technician"
+        },
+        {
+            "value": "279",
+            "label": "New Business Development"
+        },
+        {
+            "value": "280",
+            "label": "News Editor"
+        },
+        {
+            "value": "281",
+            "label": "News Reporter"
+        },
+        {
+            "value": "282",
+            "label": "News Specialist"
+        },
+        {
+            "value": "283",
+            "label": "Nurse"
+        },
+        {
+            "value": "284",
+            "label": "Nurse Practitioner"
+        },
+        {
+            "value": "285",
+            "label": "Nursing Assistant"
+        },
+        {
+            "value": "286",
+            "label": "Nursing Manager"
+        },
+        {
+            "value": "287",
+            "label": "Nursing Specialist"
+        },
+        {
+            "value": "288",
+            "label": "Nutrition Specialist"
+        },
+        {
+            "value": "289",
+            "label": "Office Assistant"
+        },
+        {
+            "value": "290",
+            "label": "Office Associate"
+        },
+        {
+            "value": "291",
+            "label": "Office Manager"
+        },
+        {
+            "value": "292",
+            "label": "Officer"
+        },
+        {
+            "value": "293",
+            "label": "Online Specialist"
+        },
+        {
+            "value": "294",
+            "label": "Operational Specialist"
+        },
+        {
+            "value": "295",
+            "label": "Operations Manager"
+        },
+        {
+            "value": "296",
+            "label": "Operator"
+        },
+        {
+            "value": "297",
+            "label": "Optometrist"
+        },
+        {
+            "value": "298",
+            "label": "Other"
+        },
+        {
+            "value": "299",
+            "label": "Owner"
+        },
+        {
+            "value": "300",
+            "label": "Paralegal"
+        },
+        {
+            "value": "301",
+            "label": "Partner"
+        },
+        {
+            "value": "302",
+            "label": "Parts Specialist"
+        },
+        {
+            "value": "303",
+            "label": "Personal Trainer"
+        },
+        {
+            "value": "304",
+            "label": "Pet Sitter"
+        },
+        {
+            "value": "305",
+            "label": "Pharmacy Technician"
+        },
+        {
+            "value": "306",
+            "label": "Photographer"
+        },
+        {
+            "value": "307",
+            "label": "Planning Specialist"
+        },
+        {
+            "value": "308",
+            "label": "Police Officer"
+        },
+        {
+            "value": "309",
+            "label": "Postdoctoral Researcher"
+        },
+        {
+            "value": "310",
+            "label": "President"
+        },
+        {
+            "value": "311",
+            "label": "Principal"
+        },
+        {
+            "value": "312",
+            "label": "Process Engineer"
+        },
+        {
+            "value": "313",
+            "label": "Product Specialist"
+        },
+        {
+            "value": "314",
+            "label": "Production Specialist"
+        },
+        {
+            "value": "315",
+            "label": "Professional Singer"
+        },
+        {
+            "value": "316",
+            "label": "Professor"
+        },
+        {
+            "value": "317",
+            "label": "Professor Of Law"
+        },
+        {
+            "value": "318",
+            "label": "Program Manager"
+        },
+        {
+            "value": "319",
+            "label": "Program Specialist"
+        },
+        {
+            "value": "320",
+            "label": "Project Engineer"
+        },
+        {
+            "value": "321",
+            "label": "Project Lead"
+        },
+        {
+            "value": "322",
+            "label": "Project Manager"
+        },
+        {
+            "value": "323",
+            "label": "Project Specialist"
+        },
+        {
+            "value": "324",
+            "label": "Prosecutor"
+        },
+        {
+            "value": "325",
+            "label": "Public Accountant"
+        },
+        {
+            "value": "326",
+            "label": "Public Prosecutor"
+        },
+        {
+            "value": "327",
+            "label": "Quality Assurance Specialis"
+        },
+        {
+            "value": "328",
+            "label": "Realtor"
+        },
+        {
+            "value": "329",
+            "label": "Receptionist"
+        },
+        {
+            "value": "330",
+            "label": "Recruiter"
+        },
+        {
+            "value": "331",
+            "label": "Recruitment Specialist"
+        },
+        {
+            "value": "332",
+            "label": "Regional Manager"
+        },
+        {
+            "value": "333",
+            "label": "Regional Sales Manager"
+        },
+        {
+            "value": "334",
+            "label": "Relationship Manager"
+        },
+        {
+            "value": "335",
+            "label": "Representative"
+        },
+        {
+            "value": "336",
+            "label": "Research And Development Specialist"
+        },
+        {
+            "value": "337",
+            "label": "Research Assistant"
+        },
+        {
+            "value": "338",
+            "label": "Researcher"
+        },
+        {
+            "value": "339",
+            "label": "Retail Specialist"
+        },
+        {
+            "value": "340",
+            "label": "Retired"
+        },
+        {
+            "value": "341",
+            "label": "Sales And Marketing Specialist"
+        },
+        {
+            "value": "342",
+            "label": "Sales Assistant"
+        },
+        {
+            "value": "343",
+            "label": "Sales Consultant"
+        },
+        {
+            "value": "344",
+            "label": "Sales Director"
+        },
+        {
+            "value": "345",
+            "label": "Sales Engineer"
+        },
+        {
+            "value": "346",
+            "label": "Sales Manager"
+        },
+        {
+            "value": "347",
+            "label": "Sales Representative"
+        },
+        {
+            "value": "348",
+            "label": "Sales Specialist"
+        },
+        {
+            "value": "349",
+            "label": "Salesperson"
+        },
+        {
+            "value": "350",
+            "label": "Sanitarian"
+        },
+        {
+            "value": "351",
+            "label": "Secretary"
+        },
+        {
+            "value": "352",
+            "label": "Security Guard"
+        },
+        {
+            "value": "353",
+            "label": "Security Officer"
+        },
+        {
+            "value": "354",
+            "label": "Senior Engineer"
+        },
+        {
+            "value": "355",
+            "label": "Senior Java Software Engineer"
+        },
+        {
+            "value": "356",
+            "label": "Senior Lawyer"
+        },
+        {
+            "value": "357",
+            "label": "Senior Manager"
+        },
+        {
+            "value": "358",
+            "label": "Senior Network Engineer"
+        },
+        {
+            "value": "359",
+            "label": "Senior Network Specialist"
+        },
+        {
+            "value": "360",
+            "label": "Senior Project Manager"
+        },
+        {
+            "value": "361",
+            "label": "Senior Software Engineer"
+        },
+        {
+            "value": "362",
+            "label": "Senior System Engineer"
+        },
+        {
+            "value": "363",
+            "label": "Senior Underwriter"
+        },
+        {
+            "value": "364",
+            "label": "Senior Vice President"
+        },
+        {
+            "value": "365",
+            "label": "Service Center Specialist"
+        },
+        {
+            "value": "366",
+            "label": "Service Engineer"
+        },
+        {
+            "value": "367",
+            "label": "Site Engineer"
+        },
+        {
+            "value": "368",
+            "label": "Social Media Manager"
+        },
+        {
+            "value": "369",
+            "label": "Social Worker"
+        },
+        {
+            "value": "370",
+            "label": "Software Engineer"
+        },
+        {
+            "value": "371",
+            "label": "Soldier"
+        },
+        {
+            "value": "372",
+            "label": "Specialist"
+        },
+        {
+            "value": "373",
+            "label": "Store Manager"
+        },
+        {
+            "value": "374",
+            "label": "Student"
+        },
+        {
+            "value": "375",
+            "label": "Supervisor"
+        },
+        {
+            "value": "376",
+            "label": "Support Specialist"
+        },
+        {
+            "value": "377",
+            "label": "System Engineer"
+        },
+        {
+            "value": "378",
+            "label": "Teacher"
+        },
+        {
+            "value": "379",
+            "label": "Teacher Assistant"
+        },
+        {
+            "value": "380",
+            "label": "Teaching Assistant"
+        },
+        {
+            "value": "381",
+            "label": "Team Lead"
+        },
+        {
+            "value": "382",
+            "label": "Team Specialist"
+        },
+        {
+            "value": "383",
+            "label": "Technical Consultant"
+        },
+        {
+            "value": "384",
+            "label": "Technical Lead"
+        },
+        {
+            "value": "385",
+            "label": "Technical Specialist"
+        },
+        {
+            "value": "386",
+            "label": "Technical Support Specialist"
+        },
+        {
+            "value": "387",
+            "label": "Technical Writer"
+        },
+        {
+            "value": "388",
+            "label": "Technician"
+        },
+        {
+            "value": "389",
+            "label": "Technology Specialist"
+        },
+        {
+            "value": "390",
+            "label": "Tour Guide"
+        },
+        {
+            "value": "391",
+            "label": "Training Specialist"
+        },
+        {
+            "value": "392",
+            "label": "Tutor"
+        },
+        {
+            "value": "393",
+            "label": "Undergraduate Research Assistant"
+        },
+        {
+            "value": "394",
+            "label": "Undergraduate Research Fellow"
+        },
+        {
+            "value": "395",
+            "label": "Undergraduate Student"
+        },
+        {
+            "value": "396",
+            "label": "Undergraduate Teaching Assistant"
+        },
+        {
+            "value": "397",
+            "label": "Underwriter"
+        },
+        {
+            "value": "398",
+            "label": "Underwriting Manager"
+        },
+        {
+            "value": "399",
+            "label": "Unemployed"
+        },
+        {
+            "value": "400",
+            "label": "Unit Manager"
+        },
+        {
+            "value": "401",
+            "label": "University Lecturer"
+        },
+        {
+            "value": "402",
+            "label": "User Experience Designer"
+        },
+        {
+            "value": "403",
+            "label": "User Interface Designer"
+        },
+        {
+            "value": "404",
+            "label": "Veterinary Surgeon"
+        },
+        {
+            "value": "405",
+            "label": "Video Editor"
+        },
+        {
+            "value": "406",
+            "label": "Video Graphics"
+        },
+        {
+            "value": "407",
+            "label": "Visual Presentation Specialist"
+        },
+        {
+            "value": "408",
+            "label": "Volunteer"
+        },
+        {
+            "value": "409",
+            "label": "Warehouse Manager"
+        },
+        {
+            "value": "410",
+            "label": "Web Designer"
+        },
+        {
+            "value": "411",
+            "label": "Web Developer"
+        },
+        {
+            "value": "412",
+            "label": "Web Expert"
+        },
+        {
+            "value": "413",
+            "label": "Worker"
+        },
+        {
+            "value": "414",
+            "label": "Yoga Instructor"
+        },
+        {
+            "value": "415",
+            "label": "Zoolog"
+        },
+        {
+            "value": "416",
+            "label": "Zumba Instructor"
+        }
+    ]
+}
