@@ -10,8 +10,7 @@ Veriler tarafımca resmi kariyer sitelerinden çekilerek düzenlenmiştir. Kurum
 
 # EN
 
-Veriler tarafımca resmi kariyer sitelerinden çekilerek düzenlenmiştir. Kurumsal projelerinizde kullanabileceğiniz mütevazi meslek listesini 3 farklı formatta (.xlsx , .json & .xml) EN klasörünün içinde bulabilirsiniz.
-
+The data have been edited by me from official career websites. You can find the modest job list that you can use in your corporate projects in 3 different formats (.xlsx, .json & .xml) in the EN folder.
 
 # Support
 - Maybe you can help improve the list.
