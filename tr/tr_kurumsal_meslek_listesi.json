@@ -1663,6 +1663,18 @@
         {
             "value": "416",
             "label": "Zumba Eğitmeni"
+        },
+        {
+            "value": "417",
+            "label": "Eczacı"
+        },
+        {
+            "value": "418",
+            "label": "Bilim İnsanı"
+        },
+        {
+            "value": "419",
+            "label": "Çiftçi"
         }
     ]
 }

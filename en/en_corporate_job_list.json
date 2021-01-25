@@ -1663,6 +1663,18 @@
         {
             "value": "416",
             "label": "Zumba Instructor"
+        },
+        {
+            "value": "417",
+            "label": "Pharmacists"
+        },
+        {
+            "value": "418",
+            "label": "Scholar"
+        },
+        {
+            "value": "419",
+            "label": "Farmer"
         }
     ]
 }
